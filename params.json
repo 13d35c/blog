@@ -1,0 +1,6 @@
+{
+  "name": "Blogger-files",
+  "tagline": "External files (js, css) used in my Blogger account -- it seems Google now requires \"https://\" as it keeps deleting all my links with \"http://\".",
+  "body": "### Hello.\r\nWelcome, I guess.\r\n\r\n### This Page\r\nUh, yeah. This repository is not what you're looking for unless you're looking for the files I use to make my blog content run smoothly.\r\n\r\n### Authors and Contributors\r\n@wyh4l84 (me) and original authors of script files found here.\r\n\r\n### Thank you:\r\n* <http://prismjs.com/index.html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
